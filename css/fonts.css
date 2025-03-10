@@ -1,0 +1,38 @@
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/Prata-Regular.ttf')
+        format('ttf'),
+      
+  }
+
+  /* montserrat-500 - cyrillic_latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/VesperLibre-Bold.ttf') format('ttf'),
+   
+  }
+
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/VesperLibre-Medium.ttf') format('ttf'),
+   
+  }
+
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/VesperLibre-Medium.ttf') format('ttf'),
+   
+  }
